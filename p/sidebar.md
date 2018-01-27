@@ -2,7 +2,7 @@
 
 # [赶太阳](.)
 
-> 日新之谓盛德
+> sunshine
 
 - [笔记](docs/index.md)
 - [碎碎念](weekly/index.md)
